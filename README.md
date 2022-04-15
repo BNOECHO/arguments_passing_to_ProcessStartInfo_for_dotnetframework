@@ -1,0 +1,2 @@
+# arguments_passing_to_ProcessStartInfo_for_dotnetframework
+ complete function like argumentlist in dotnet
